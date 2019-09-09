@@ -1,0 +1,24 @@
+h1, h2 {
+font-family:arial;
+ color : blue;
+ font-size:22px;
+ }
+ p{ color: blue; font-size: 22px}
+ body {
+	  font-family:arial;
+  background-color: pink;
+}
+.tim {
+	background-color:brown;
+}
+p,a {
+	text-align:center;
+}
+.länk {
+	text-decoration:none;
+}
+.ram {
+	border:1px solid black
+}
+
+
